@@ -3,9 +3,10 @@
 ![Sociopedia](https://i.postimg.cc/jSNnVJ2C/Sociopedia.png)
 
 ## Introduction
-Promptopia is an open-source AI prompting tool for the modern world to discover, create and share creative prompts.
+Sociopedia is a full-stack social media application that uses React.js for the frontend with JWT authentication and MongoDB databases in the backend.
 
-In the application, you can find a Prompt made by the other user that you can use in the Chat GPT or any AI application. And if you want to share an AI Prompt you can sign in with your Google Account and then Create a Prompt 👍
+* Provide light and dark themes using MaterialUI.
+* Very comfortable user interface and interactive components.
 
 ### Tech Stack 💻 :
 - React JS
