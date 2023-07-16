@@ -25,22 +25,25 @@ git clone https://github.com/inifarhan/sociopedia.git
 npm i
 ```
 
-### Setup .env file
+### Setup .env file (For backend only)
 
 
 ```js
-MONGODB_URI=
-GOOGLE_CLIENT_ID=
-GOOGLE_CLIENT_SECRET=
-NEXTAUTH_URL=
-NEXTAUTH_URL_INTERNAL=
-NEXTAUTH_SECRET=
+MONGO_URL=
+JWT_SECRET=
+PORT=
 ```
 
-### Start the app
+### Start the client app
 
 ```shell
 npm run dev
+```
+
+### Start the server app
+
+```shell
+npm run start
 ```
 
 ## Available commands
@@ -49,4 +52,5 @@ Running commands with npm `npm run [command]`
 
 | command         | description                              |
 | :-------------- | :--------------------------------------- |
-| `dev`           | Starts a development instance of the app |
+| `dev`           | Starts a development instance of the client app |
+| `start`           | Starts a development instance of the server app |
