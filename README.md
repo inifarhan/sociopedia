@@ -1,4 +1,4 @@
-# Sociopedia
+# Sociopedi
 
 ![Sociopedia](https://i.postimg.cc/jSNnVJ2C/Sociopedia.png)
 
